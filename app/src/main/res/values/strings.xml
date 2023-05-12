@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assessment2</string>
+    <string name="Title">All-Round\'s Quiz</string>
+    <string name="button_start">Start</string>
+    <string name="button_log">Log</string>
+    <string name="button_about">About</string>
+</resources>
