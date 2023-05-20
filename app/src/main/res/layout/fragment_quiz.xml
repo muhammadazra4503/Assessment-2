@@ -1,6 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:background="#B4D5CF"
+    android:layout_height="match_parent"
+    tools:context=".ui.main.quiz.QuizFragment">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <TextView
+        android:id="@+id/question_text2"
+        android:layout_width="406dp"
+        android:layout_height="79dp"
+        android:layout_marginTop="40dp"
+        android:text="@string/question"
+        android:textAlignment="center"
+        android:textSize="28sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image_country" />
+
+    <ImageView
+        android:id="@+id/image_country"
+        android:layout_width="237dp"
+        android:layout_height="136dp"
+        android:layout_marginTop="68dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/id" />
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="300dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="28dp"
+        android:text="@string/submit_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_answer4" />
+
+    <TextView
+        android:id="@+id/tv_answer1"
+        android:layout_width="320dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/default_border"
+        android:gravity="center"
+        android:text="@string/answer1"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/question_text2" />
+
+    <TextView
+        android:id="@+id/tv_answer2"
+        android:layout_width="320dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="@string/answer2"
+        android:textSize="20sp"
+        android:background="@drawable/default_border"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_answer1" />
+
+    <TextView
+        android:id="@+id/tv_answer3"
+        android:layout_width="320dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="@string/answer3"
+        android:textSize="20sp"
+        android:background="@drawable/default_border"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_answer2" />
+
+    <TextView
+        android:id="@+id/tv_answer4"
+        android:layout_width="320dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="@string/answer4"
+        android:textSize="20sp"
+        android:background="@drawable/default_border"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_answer3" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
