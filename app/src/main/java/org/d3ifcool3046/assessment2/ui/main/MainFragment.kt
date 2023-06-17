@@ -7,7 +7,6 @@ import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
 import androidx.navigation.fragment.navArgs
 import org.d3ifcool3046.assessment2.R
-import org.d3ifcool3046.assessment2.databinding.FragmentListBinding
 import org.d3ifcool3046.assessment2.databinding.FragmentMainBinding
 
 
@@ -29,7 +28,6 @@ class MainFragment: Fragment() {
         setHasOptionsMenu(true)
         return binding.root
     }
-
 
     override fun onCreateOptionsMenu(menu: Menu, inflater: MenuInflater) {
         super.onCreateOptionsMenu(menu, inflater)

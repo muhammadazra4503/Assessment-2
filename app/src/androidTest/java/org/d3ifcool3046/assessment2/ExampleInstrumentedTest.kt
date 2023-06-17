@@ -20,5 +20,6 @@ class ExampleInstrumentedTest {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
         assertEquals("org.d3ifcool3046.assessment2", appContext.packageName)
+        assertEquals("org.d3ifcool3046.assessment2.ui.main", appContext.packageName)
     }
 }

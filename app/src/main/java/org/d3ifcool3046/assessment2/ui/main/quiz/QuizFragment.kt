@@ -1,5 +1,6 @@
 package org.d3ifcool3046.assessment2.ui.main.quiz
 
+import android.annotation.SuppressLint
 import android.graphics.Color
 import android.graphics.Typeface
 import android.os.Bundle
@@ -10,54 +11,55 @@ import android.widget.TextView
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import androidx.navigation.NavController
+import androidx.lifecycle.lifecycleScope
 import androidx.navigation.fragment.findNavController
-import androidx.navigation.ui.NavigationUI
+import kotlinx.coroutines.launch
 import org.d3ifcool3046.assessment2.R
 import org.d3ifcool3046.assessment2.databinding.FragmentQuizBinding
 import org.d3ifcool3046.assessment2.model.Question
 
 class QuizFragment : Fragment(), View.OnClickListener {
-    private lateinit var binding: FragmentQuizBinding
-
-    private val viewModel: QuizViewModel by lazy {
-        ViewModelProvider(requireActivity())[QuizViewModel::class.java]
-    }
-
+    private var _binding: FragmentQuizBinding? = null
+    private val binding get() = _binding!!
     private var mCurrentPosition:Int = 1
     private var mOptionSelected:Int = 0
     private var mCorrectAnswer: Int = 0
+    private val viewModel: QuizViewModel by lazy {
+        ViewModelProvider(requireActivity())[QuizViewModel::class.java]
+    }
+    private var mQuestionList: List<Question>? = null
 
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
-        binding = FragmentQuizBinding.inflate(layoutInflater, container, false)
+    ): View {
+        _binding = FragmentQuizBinding.inflate(inflater, container, false)
+        mQuestionList = viewModel.setQuestionList()
+        setQuestion()
         return binding.root
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        viewModel.getData()
+        super.onViewCreated(view, savedInstanceState)
         binding.tvAnswer1.setOnClickListener(this)
         binding.tvAnswer2.setOnClickListener(this)
         binding.tvAnswer3.setOnClickListener(this)
         binding.tvAnswer4.setOnClickListener(this)
         binding.submit.setOnClickListener(this)
-        setQuestion()
-        super.onViewCreated(view, savedInstanceState)
     }
 
+    @SuppressLint("SetTextI18n")
     fun setQuestion(){
-        val question: Question? = viewModel.setQuestion()[mCurrentPosition -1]
+        val question: Question = mQuestionList!![mCurrentPosition - 1]
         defaultOptionsView()
-        if (mCurrentPosition == viewModel.setQuestion().size){
-            binding.submit.text = "Finish"
+        if (mCurrentPosition == mQuestionList!!.size) {
+            binding.submit.text = "Submit"
         } else {
             binding.submit.text = "Submit"
         }
-        binding.imageCountry.setImageResource(question!!.image)
-        binding.questionText2.text = question!!.question
+        binding.imageCountry.setImageResource(question.image)
+        binding.questionText2.text = question.question
         binding.tvAnswer1.text = question.optionOne
         binding.tvAnswer2.text = question.optionTwo
         binding.tvAnswer3.text = question.optionThree
@@ -96,38 +98,32 @@ class QuizFragment : Fragment(), View.OnClickListener {
             }
             R.id.submit ->{
                 if(mOptionSelected == 0) {
-                    mCurrentPosition ++
-                when {
-                    mCurrentPosition <= viewModel.setQuestion().size -> {
+                    mCurrentPosition++
+                    if (mCurrentPosition <= mQuestionList!!.size) {
                         setQuestion()
-                    }
-                    else -> {
+                    } else {
                         findNavController().navigate(
                             QuizFragmentDirections.actionQuizFragmentToResultFragment(
                                 mCorrectAnswer,
-                                viewModel.setQuestion().size.toString()
+                                mQuestionList!!.size.toString()
                             )
                         )
                     }
-                  }
-                }else {
-                    val question = viewModel.setQuestion().get(mCurrentPosition - 1)
-                    if (question!!.correctAnswer != mOptionSelected){
-                        answerView(
-                        mOptionSelected,
-                        R.drawable.wrong_border
-                    )}
-                    else{
+                } else {
+                    val question = mQuestionList!!.get(mCurrentPosition - 1)
+                    if (question.correctAnswer != mOptionSelected) {
+                        answerView(mOptionSelected, R.drawable.wrong_border)
+                    } else {
                         mCorrectAnswer++
                         answerView(question.correctAnswer, R.drawable.correct_border)
                     }
+                    if (mCurrentPosition == mQuestionList!!.size) {
+                        binding.submit.text = "Finish"
+                    } else {
+                        binding.submit.text = "Go to next question"
+                    }
+                    mOptionSelected = 0
                 }
-                if (mCurrentPosition == viewModel.setQuestion().size){
-                    binding.submit.text = "Finish"
-                }else{
-                    binding.submit.text = "Go to next question"
-                }
-                mOptionSelected = 0
             }
         }
     }
@@ -152,12 +148,12 @@ class QuizFragment : Fragment(), View.OnClickListener {
         tv.setTypeface(tv.typeface, Typeface.BOLD)
         tv.background = ContextCompat.getDrawable(
             requireContext(),
-            R.drawable.selected_border
-        )
+            R.drawable.selected_border)
     }
 
     override fun onDestroyView() {
         super.onDestroyView()
+        _binding = null
     }
 }
 

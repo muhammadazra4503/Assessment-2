@@ -12,27 +12,27 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="284dp"
-        android:layout_height="126dp"
-        android:fontFamily="@font/spicy_rice"
-        android:text="@string/Title"
-        android:textAlignment="center"
-        android:textColor="#B54040"
-        android:textSize="50sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.496"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.161"
-        tools:ignore="TextSizeCheck" />
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="284dp"
+            android:layout_height="126dp"
+            android:fontFamily="@font/spicy_rice"
+            android:text="@string/Title"
+            android:textAlignment="center"
+            android:textColor="#B54040"
+            android:textSize="50sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.496"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.367"
+            tools:ignore="TextSizeCheck" />
 
         <Button
             android:id="@+id/start_button"
-            android:layout_width="162dp"
-            android:layout_height="51dp"
+            android:layout_width="182dp"
+            android:layout_height="58dp"
             android:layout_marginTop="60dp"
             android:fontFamily="@font/brawler"
             android:text="@string/button_start"
@@ -44,7 +44,7 @@
 
         <Button
             android:id="@+id/list_button"
-            android:layout_width="162dp"
+            android:layout_width="182dp"
             android:layout_height="61dp"
             android:layout_marginTop="24dp"
             android:fontFamily="@font/brawler"

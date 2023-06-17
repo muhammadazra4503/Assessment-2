@@ -1,1178 +1,1170 @@
 [
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ag.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ag.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_bb.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/bb.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_bs.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\bs.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_st.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/st.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_pa.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\pa.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_cn.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/cn.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_tf.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\tf.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_correct_border.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/correct_border.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_mh.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\mh.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/layout_fragment_quiz.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/layout/fragment_quiz.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_xk.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\xk.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ua.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ua.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_sh.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\sh.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_gs.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/gs.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_au.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\au.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ge.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ge.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\font_spicy_rice.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\font\\spicy_rice.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_me.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/me.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_nf.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\nf.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_tr.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/tr.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_km.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\km.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_nc.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/nc.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_gh.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\gh.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_dz.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/dz.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ne.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ne.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_in.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/in.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_va.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\va.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_pm.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/pm.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_cc.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\cc.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/font_brawler.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/font/brawler.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_mv.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\mv.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_as.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/as.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_fj.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\fj.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_bq.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/bq.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_iq.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\iq.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_dk.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/dk.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_be.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\be.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_td.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/td.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_jo.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\jo.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ms.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ms.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ky.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ky.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\xml\\data_extraction_rules.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ad.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ad.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_tg.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\tg.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ki.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ki.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_br.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\br.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_cm.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/cm.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_id.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\id.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_jm.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/jm.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_us.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\us.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_vn.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/vn.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_sg.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\sg.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_nr.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/nr.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_dm.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\dm.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_se.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/se.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_sx.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\sx.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_kw.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/kw.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_tt.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\tt.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_gr.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/gr.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_bd.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\bd.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_at.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/at.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_fi.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\fi.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_yt.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/yt.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ir.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ir.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_im.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/im.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_mw.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\mw.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_eh.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/eh.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_mr.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/mr.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_jm.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\jm.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_rw.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/rw.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_co.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\co.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable-wls_gb.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable-wls/gb.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_aw.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\aw.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_gd.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/gd.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ss.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ss.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ky.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ky.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_lv.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/lv.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_is.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\is.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_kh.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/kh.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_td.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\td.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_dj.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/dj.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ai.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ai.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_kz.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/kz.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_rw.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\rw.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_af.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/af.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_kn.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\kn.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_na.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/na.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_hr.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\hr.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/layout_fragment_about.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/layout/fragment_about.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_cd.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\cd.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_cl.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/cl.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_cr.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\cr.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_bd.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/bd.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ca.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ca.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_iv_star.jpg.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/iv_star.jpg"
     },
     {
-        "merged": "org.d3ifcool3046.assessment2.app-merged_res-57:/drawable_baseline_grid_view_24.xml.flat",
-        "source": "org.d3ifcool3046.assessment2.app-main-59:/drawable/baseline_grid_view_24.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/menu_menu_list.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/menu/menu_list.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ie.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ie.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable-eng_gb.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable-eng/gb.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_bq.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\bq.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_li.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/li.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_hu.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\hu.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_sd.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/sd.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_nc.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\nc.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_lt.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/lt.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_selected_border.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\selected_border.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_no.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/no.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_pn.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\pn.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_dm.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/dm.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_wrong_border.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/wrong_border.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_my.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\my.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_sr.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/sr.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_dz.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\dz.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_au.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/au.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_lk.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\lk.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_co.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/co.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_lv.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\lv.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/layout_fragment_result.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/layout/fragment_result.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable-sct_gb.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable-sct\\gb.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_xk.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/xk.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_af.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\af.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_gb.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/gb.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_bt.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\bt.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_pa.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/pa.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ua.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ua.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\navigation_navigation.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\navigation\\navigation.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_fj.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/fj.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\layout_fragment_main.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\layout\\fragment_main.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ye.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ye.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_si.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\si.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_gu.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\gu.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_eg.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/eg.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_mf.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/mf.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_gg.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\gg.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_mq.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/mq.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ly.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ly.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ca.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ca.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_at.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\at.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ar.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ar.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\layout_fragment_result.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\layout\\fragment_result.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_bo.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/bo.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_mk.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\mk.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_mt.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/mt.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_bf.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\bf.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_sg.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/sg.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_tr.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\tr.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_mc.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/mc.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_jp.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\jp.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_nf.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/nf.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\layout_fragment_quiz.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\layout\\fragment_quiz.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ru.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ru.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ba.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ba.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable-nir_gb.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable-nir/gb.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_lu.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\lu.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_pl.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/pl.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\font_brawler.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\font\\brawler.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_gp.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/gp.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_cf.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\cf.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_br.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/br.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_sz.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\sz.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ba.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ba.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_bh.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\bh.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_um.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/um.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ss.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ss.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_mp.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/mp.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_fm.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\fm.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_tn.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/tn.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ve.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ve.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_hm.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/hm.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_yt.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\yt.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_rs.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/rs.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ms.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ms.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ly.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ly.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ug.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ug.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_gh.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/gh.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ml.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ml.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_be.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/be.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_kw.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\kw.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ng.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ng.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_gr.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\gr.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_lr.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/lr.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_st.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\st.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_cy.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/cy.png"
     },
     {
-        "merged": "org.d3ifcool3046.assessment2.app-merged_res-57:/layout_fragment_list.xml.flat",
-        "source": "org.d3ifcool3046.assessment2.app-main-59:/layout/fragment_list.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_id.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/id.png"
     },
     {
-        "merged": "org.d3ifcool3046.assessment2.app-merged_res-57:/navigation_navigation.xml.flat",
-        "source": "org.d3ifcool3046.assessment2.app-main-59:/navigation/navigation.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_cc.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/cc.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_tw.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\tw.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_bl.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/bl.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_cu.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\cu.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ag.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ag.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_pk.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\pk.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_to.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/to.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ge.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ge.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_mo.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/mo.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_sm.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\sm.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/layout_list_main.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/layout/list_main.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ad.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ad.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_mv.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/mv.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\xml\\backup_rules.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ls.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ls.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_bg.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\bg.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_th.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/th.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\layout_list_main.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\layout\\list_main.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_bf.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/bf.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_tj.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\tj.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_fk.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/fk.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_pe.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\pe.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_np.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\np.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_gn.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/gn.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_bn.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\bn.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_fr.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/fr.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_qa.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\qa.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_mm.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\mm.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_cz.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/cz.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ru.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ru.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ci.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ci.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_mf.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\mf.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_baseline_view_list_24.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/baseline_view_list_24.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_gl.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\gl.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_sk.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/sk.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_lt.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\lt.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_gu.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/gu.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ni.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ni.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\layout_list_item.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\layout\\list_item.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_sv.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/sv.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_mx.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\mx.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_am.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/am.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_cv.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\cv.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_lb.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/lb.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_za.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\za.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_py.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/py.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_hn.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\hn.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_pn.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/pn.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ae.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ae.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_mu.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/mu.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_re.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\re.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_bv.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/bv.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_tv.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\tv.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ch.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ch.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_sn.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\sn.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_md.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/md.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_tk.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\tk.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_tz.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/tz.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_no.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\no.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_wf.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/wf.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_gf.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\gf.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_hr.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/hr.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ck.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ck.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_gt.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/gt.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_zw.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\zw.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_vc.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/vc.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ps.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ps.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_il.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\il.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ph.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ph.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_gw.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\gw.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/menu_menu_option.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/menu/menu_option.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_kr.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\kr.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_vi.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/vi.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_li.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\li.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_io.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/io.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_mg.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\mg.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_tc.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/tc.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_bb.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\bb.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_tt.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/tt.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_sb.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\sb.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ec.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ec.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_om.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\om.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_et.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/et.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ic_launcher_background.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_gi.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/gi.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_sy.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\sy.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_je.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/je.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_bm.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\bm.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ro.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ro.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_iv_star.jpg.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\iv_star.jpg"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_resource_do.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/resource_do.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ht.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ht.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_pt.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/pt.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_gq.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\gq.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_bi.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/bi.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_cg.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/cg.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_nu.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\nu.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_gl.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/gl.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ma.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ma.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ml.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ml.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_mr.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\mr.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_tk.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/tk.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable-nir_gb.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable-nir\\gb.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_pf.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/pf.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_lc.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\lc.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_la.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/la.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_mo.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\mo.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_az.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/az.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ee.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ee.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_mz.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/mz.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_sa.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\sa.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_sm.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/sm.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_uy.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\uy.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_bj.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/bj.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_bl.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\bl.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_cf.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/cf.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable-eng_gb.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable-eng\\gb.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_kp.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/kp.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_iv_trophy.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\iv_trophy.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/layout_list_item.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/layout/list_item.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_sl.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/sl.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\layout_fragment_about.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\layout\\fragment_about.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_cv.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/cv.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_wf.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\wf.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_vg.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/vg.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_es.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\es.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_fo.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/fo.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_tn.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\tn.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/layout_fragment_list.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/layout/fragment_list.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ga.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ga.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_baseline_grid_view_24.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/baseline_grid_view_24.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_zm.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\zm.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_bw.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/bw.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ao.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ao.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_tl.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/tl.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_sz.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/sz.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_uz.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\uz.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_de.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/de.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_et.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\et.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_vu.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/vu.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_mp.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\mp.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_my.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/my.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_correct_border.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\correct_border.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_it.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/it.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_by.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\by.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ax.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ax.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_nl.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\nl.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_pr.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/pr.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_vi.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\vi.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\layout\\activity_main.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_nl.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/nl.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_pg.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/pg.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_nz.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\nz.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_nz.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/nz.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_kg.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\kg.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_tm.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\tm.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_er.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/er.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ph.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ph.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_mk.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/mk.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_cx.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\cx.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_hk.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/hk.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_to.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\to.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_gy.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/gy.png"
     },
     {
-        "merged": "org.d3ifcool3046.assessment2.app-merged_res-57:/menu_menu_list.xml.flat",
-        "source": "org.d3ifcool3046.assessment2.app-main-59:/menu/menu_list.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ke.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ke.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_sc.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\sc.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/layout_fragment_main.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/layout/fragment_main.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_gb.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\gb.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_so.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/so.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_es.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/es.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_vu.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\vu.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ai.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ai.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ls.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ls.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_pf.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\pf.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_sa.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/sa.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_um.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\um.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_bg.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/bg.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ws.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ws.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ug.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ug.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_gp.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\gp.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_mn.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/mn.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_tl.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\tl.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ve.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ve.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_al.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\al.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_is.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/is.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_tz.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\tz.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_gm.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/gm.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_gm.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\gm.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ni.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ni.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_mq.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\mq.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_cx.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/cx.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_fo.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\fo.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_al.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/al.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\menu_menu_option.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\menu\\menu_option.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/navigation_navigation.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/navigation/navigation.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_eg.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\eg.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_sj.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/sj.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_cw.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\cw.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_lc.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/lc.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_kh.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\kh.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_tm.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/tm.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_aq.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\aq.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_sx.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/sx.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ro.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ro.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ie.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ie.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_bi.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\bi.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_fm.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/fm.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_je.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\je.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_qa.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/qa.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_sr.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\sr.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_cu.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/cu.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_lb.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\lb.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ws.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ws.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_az.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\az.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_mn.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\mn.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_hm.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\hm.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ao.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ao.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_cd.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/cd.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_pw.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\pw.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_tj.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/tj.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_fr.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\fr.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_selected_border.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/selected_border.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_im.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\im.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_kn.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/kn.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_cz.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\cz.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_us.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/us.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ci.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ci.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ir.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ir.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_so.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\so.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_tg.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/tg.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_bw.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\bw.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_bt.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/bt.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ke.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ke.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_uz.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/uz.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_pt.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\pt.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_nu.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/nu.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_vg.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\vg.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_cl.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\cl.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ga.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ga.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_bz.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\bz.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_er.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\er.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_mw.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/mw.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_kp.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\kp.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ps.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ps.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_cr.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/cr.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_sl.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\sl.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ht.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ht.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_resource_do.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\resource_do.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_gw.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/gw.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_wrong_border.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\wrong_border.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_km.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/km.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_pl.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\pl.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_pw.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/pw.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_md.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\md.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_lk.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/lk.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_mz.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\mz.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_re.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/re.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ki.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ki.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_bs.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/bs.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_gd.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\gd.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ee.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ee.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_in.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\in.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_bz.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/bz.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_bo.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\bo.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_hu.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/hu.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\mipmap-anydpi-v33\\ic_launcher.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_aw.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/aw.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_gy.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\gy.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_hn.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/hn.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ye.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ye.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_iv_trophy.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/iv_trophy.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_dk.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\dk.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_iq.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/iq.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_me.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\me.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_gg.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/gg.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_bv.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\bv.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_va.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/va.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\layout_fragment_list.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\layout\\fragment_list.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_zw.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/zw.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_cm.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\cm.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ma.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ma.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_default_border.xml.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\default_border.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/font_spicy_rice.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/font/spicy_rice.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_cn.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\cn.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_si.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/si.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_pr.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\pr.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_uy.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/uy.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_gs.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\gs.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_sd.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\sd.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_jp.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/jp.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_mt.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\mt.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_tv.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/tv.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_mc.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\mc.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_bm.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/bm.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable-wls_gb.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable-wls\\gb.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_mh.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/mh.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ar.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ar.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_sb.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/sb.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_tc.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\tc.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_mg.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/mg.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_py.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\py.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_cw.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/cw.png"
     },
     {
-        "merged": "org.d3ifcool3046.assessment2.app-merged_res-57:/drawable_baseline_view_list_24.xml.flat",
-        "source": "org.d3ifcool3046.assessment2.app-main-59:/drawable/baseline_view_list_24.xml"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_aq.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/aq.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_cg.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\cg.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_tw.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/tw.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_dj.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\dj.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_gt.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\gt.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_vn.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\vn.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_default_border.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/default_border.xml"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ec.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ec.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_zm.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/zm.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_sj.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\sj.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_gq.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/gq.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_gi.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\gi.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_fi.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/fi.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_la.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\la.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_sy.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/sy.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_nr.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\nr.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_bn.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/bn.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_io.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\io.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_pk.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/pk.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_hk.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\hk.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_om.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/om.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_cy.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\cy.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ne.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ne.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_vc.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\vc.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_sh.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/sh.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ch.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ch.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_mx.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/mx.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_as.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\as.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_sc.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/sc.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_bj.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\bj.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_kr.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/kr.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_sk.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\sk.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_kg.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/kg.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ax.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ax.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_lu.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/lu.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_na.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\na.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_tf.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/tf.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_il.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/il.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_pg.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\pg.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_jo.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/jo.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_it.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\it.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_gf.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/gf.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_lr.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\lr.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_za.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/za.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_kz.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\kz.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_pe.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/pe.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_eh.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\eh.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable-sct_gb.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable-sct/gb.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_de.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\de.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ck.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ck.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_fk.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\fk.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_mu.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\mu.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_bh.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/bh.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_ng.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\ng.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_by.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/by.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_gn.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\gn.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_ae.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/ae.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_pm.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\pm.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_mm.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/mm.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_sv.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\sv.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_sn.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/sn.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_se.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\se.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/drawable_np.png.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/drawable/np.png"
     },
     {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_rs.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\rs.png"
-    },
-    {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_th.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\th.png"
-    },
-    {
-        "merged": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-merged_res-57:\\drawable_am.png.flat",
-        "source": "C:\\Users\\azirl\\.gradle\\daemon\\7.5\\org.d3ifcool3046.assessment2.app-main-59:\\drawable\\am.png"
+        "merged": "org.d3ifcool3046.assessment2.app-merged_res-5:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "org.d3ifcool3046.assessment2.app-main-7:/mipmap-anydpi-v33/ic_launcher.xml"
     }
 ]
