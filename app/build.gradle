@@ -44,9 +44,6 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
-    kapt {
-        generateStubs = true
-    }
 }
 
 dependencies {
@@ -62,8 +59,8 @@ dependencies {
     implementation 'androidx.recyclerview:recyclerview:1.2.1'
     implementation 'androidx.navigation:navigation-fragment-ktx:2.4.2'
     implementation 'androidx.navigation:navigation-ui-ktx:2.4.2'
-    implementation "androidx.room:room-runtime:2.4.0"
-    kapt "androidx.room:room-compiler:2.4.0"
+    implementation 'androidx.room:room-runtime:2.4.2'
+    kapt 'androidx.room:room-compiler:2.4.2'
     implementation "androidx.fragment:fragment-ktx:1.2.5"
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.1"
 }

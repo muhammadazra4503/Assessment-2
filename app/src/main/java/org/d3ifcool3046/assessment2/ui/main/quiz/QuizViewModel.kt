@@ -1,63 +1,76 @@
 package org.d3ifcool3046.assessment2.ui.main.quiz
 
+import android.util.Log
+import androidx.lifecycle.LiveData
+import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
+import androidx.lifecycle.viewModelScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 import org.d3ifcool3046.assessment2.R
+import org.d3ifcool3046.assessment2.db.QuestionDao
+import org.d3ifcool3046.assessment2.db.QuestionEntity
 import org.d3ifcool3046.assessment2.model.Question
 
-class QuizViewModel(): ViewModel() {
+class QuizViewModel(private val db: QuestionDao): ViewModel() {
 
-    fun setQuestionList(): List<Question>{
-        val questionList = ArrayList<Question>()
-        val question1 = Question(
-            "Where does this country from?",
-            R.drawable.id,
-            "Singapore",
-            "Monaco",
-            "Indonesia",
-            "Poland",
-            3)
-        questionList.add(question1)
+    private val _questionList: MutableLiveData<List<Question>> = MutableLiveData()
+    val questionList: LiveData<List<Question>> = _questionList
+    val data = db.getallQuestion()
 
-        val question2 = Question(
-            "Where does this country from?",
-            R.drawable.au,
-            "United Kingdom",
-            "Barbados",
-            "USA",
-            "Australia",
-            4)
-        questionList.add(question2)
+    init {
+        viewModelScope.launch {
+            val questionEntities = db.getallQuestion().value
+            if (questionEntities != null) {
+                val tempList = questionEntities.map { questionEntity ->
+                    Question(
+                        questionEntity.question,
+                        questionEntity.image,
+                        questionEntity.optionOne,
+                        questionEntity.optionTwo,
+                        questionEntity.optionThree,
+                        questionEntity.optionFour,
+                        questionEntity.correctAnswer
+                    )
+                }
+                _questionList.postValue(tempList)
+            }
+        }
+    }
+    fun setQuestionList() {
+        viewModelScope.launch {
+            val tempList = mutableListOf<Question>()
+            val question1 = Question(
+                "Where does this country from?",
+                R.drawable.id,
+                "Singapore",
+                "Monaco",
+                "Indonesia",
+                "Poland",
+                3
+            )
+            tempList.add(question1)
 
-        val question3 = Question(
-            "Where does this country from?",
-            R.drawable.us,
-            "USA",
-            "Germany",
-            "Belgium",
-            "Swedish",
-            1)
-        questionList.add(question3)
+            // Add other questions...
 
-        val question4 = Question(
-            "Where does this country from?",
-            R.drawable.jp,
-            "Singapore",
-            "Japan",
-            "South Korea",
-            "China",
-            2)
-        questionList.add(question4)
+            withContext(Dispatchers.IO) {
+                for (question in tempList) {
+                    val questionEntity = QuestionEntity(
+                        question = question.question,
+                        image = question.image,
+                        optionOne = question.optionOne,
+                        optionTwo = question.optionTwo,
+                        optionThree = question.optionThree,
+                        optionFour = question.optionFour,
+                        correctAnswer = question.correctAnswer
+                    )
+                    db.insert(questionEntity)
+                    Log.d("QuizViewModel", "Inserted question: $questionEntity")
+                }
+            }
 
-        val question5 = Question(
-            "Where does this country from?",
-            R.drawable.ar,
-            "Argentina",
-            "Spain",
-            "Russia",
-            "Netherlands",
-            1)
-        questionList.add(question5)
-
-        return questionList
+            _questionList.postValue(tempList)
+        }
     }
 }

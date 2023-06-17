@@ -11,23 +11,24 @@ import android.widget.TextView
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import androidx.lifecycle.lifecycleScope
 import androidx.navigation.fragment.findNavController
-import kotlinx.coroutines.launch
 import org.d3ifcool3046.assessment2.R
 import org.d3ifcool3046.assessment2.databinding.FragmentQuizBinding
+import org.d3ifcool3046.assessment2.db.QuizDb
 import org.d3ifcool3046.assessment2.model.Question
 
 class QuizFragment : Fragment(), View.OnClickListener {
     private var _binding: FragmentQuizBinding? = null
     private val binding get() = _binding!!
-    private var mCurrentPosition:Int = 1
-    private var mOptionSelected:Int = 0
+    private var mCurrentPosition: Int = 1
+    private var mOptionSelected: Int = 0
     private var mCorrectAnswer: Int = 0
     private val viewModel: QuizViewModel by lazy {
-        ViewModelProvider(requireActivity())[QuizViewModel::class.java]
+        val db = QuizDb.getInstance(requireContext())
+        val factory = QuizViewModelFactory(db.dao)
+        ViewModelProvider(this, factory)[QuizViewModel::class.java]
     }
-    private var mQuestionList: List<Question>? = null
+    private var mQuestionList: MutableList<Question>? = null
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -35,8 +36,6 @@ class QuizFragment : Fragment(), View.OnClickListener {
         savedInstanceState: Bundle?
     ): View {
         _binding = FragmentQuizBinding.inflate(inflater, container, false)
-        mQuestionList = viewModel.setQuestionList()
-        setQuestion()
         return binding.root
     }
 
@@ -47,10 +46,70 @@ class QuizFragment : Fragment(), View.OnClickListener {
         binding.tvAnswer3.setOnClickListener(this)
         binding.tvAnswer4.setOnClickListener(this)
         binding.submit.setOnClickListener(this)
+
+        // Observe the questionList LiveData
+        viewModel.questionList.observe(viewLifecycleOwner) { questionList ->
+            if (questionList.isNotEmpty()) {
+                mQuestionList = questionList.toMutableList() // Initialize mQuestionList here
+                setQuestion()
+            }
+        }
+        // Call setQuestionList() to populate the question list
+        viewModel.setQuestionList()
+    }
+
+
+    override fun onClick(view: View?) {
+        when (view?.id) {
+            R.id.tv_answer1 -> {
+                selectedOptionView(binding.tvAnswer1, 1)
+            }
+            R.id.tv_answer2 -> {
+                selectedOptionView(binding.tvAnswer2, 2)
+            }
+            R.id.tv_answer3 -> {
+                selectedOptionView(binding.tvAnswer3, 3)
+            }
+            R.id.tv_answer4 -> {
+                selectedOptionView(binding.tvAnswer4, 4)
+            }
+            R.id.submit -> {
+                if (mOptionSelected != 0) { // Check if an option is selected
+                    val question = mQuestionList?.getOrNull(mCurrentPosition - 1)
+                    if (question?.correctAnswer != mOptionSelected) {
+                        answerView(mOptionSelected, R.drawable.wrong_border)
+                    } else {
+                        mCorrectAnswer++
+                        answerView(question.correctAnswer, R.drawable.correct_border)
+                    }
+                    if (mCurrentPosition == mQuestionList?.size) {
+                        binding.submit.text = "Finish"
+                    } else {
+                        binding.submit.text = "Go to next question"
+                    }
+                    mOptionSelected = 0
+                } else {
+                    mCurrentPosition++
+                    if (mCurrentPosition <= mQuestionList?.size ?: 0) {
+                        setQuestion()
+                    } else {
+                        findNavController().navigate(
+                            QuizFragmentDirections.actionQuizFragmentToResultFragment(
+                                mCorrectAnswer,
+                                mQuestionList?.size.toString() ?: "0"
+                            )
+                        )
+                    }
+                }
+            }
+        }
     }
 
     @SuppressLint("SetTextI18n")
-    fun setQuestion(){
+    fun setQuestion() {
+        if (mQuestionList.isNullOrEmpty()) {
+            return // Exit the function if mQuestionList is null or empty
+        }
         val question: Question = mQuestionList!![mCurrentPosition - 1]
         defaultOptionsView()
         if (mCurrentPosition == mQuestionList!!.size) {
@@ -82,52 +141,6 @@ class QuizFragment : Fragment(), View.OnClickListener {
         }
     }
 
-    override fun onClick(view: View?) {
-        when(view?.id){
-            R.id.tv_answer1 ->{
-                selectedOptionView(binding.tvAnswer1, 1)
-            }
-            R.id.tv_answer2 ->{
-                selectedOptionView(binding.tvAnswer2, 2)
-            }
-            R.id.tv_answer3 ->{
-                selectedOptionView(binding.tvAnswer3, 3)
-            }
-            R.id.tv_answer4 ->{
-                selectedOptionView(binding.tvAnswer4, 4)
-            }
-            R.id.submit ->{
-                if(mOptionSelected == 0) {
-                    mCurrentPosition++
-                    if (mCurrentPosition <= mQuestionList!!.size) {
-                        setQuestion()
-                    } else {
-                        findNavController().navigate(
-                            QuizFragmentDirections.actionQuizFragmentToResultFragment(
-                                mCorrectAnswer,
-                                mQuestionList!!.size.toString()
-                            )
-                        )
-                    }
-                } else {
-                    val question = mQuestionList!!.get(mCurrentPosition - 1)
-                    if (question.correctAnswer != mOptionSelected) {
-                        answerView(mOptionSelected, R.drawable.wrong_border)
-                    } else {
-                        mCorrectAnswer++
-                        answerView(question.correctAnswer, R.drawable.correct_border)
-                    }
-                    if (mCurrentPosition == mQuestionList!!.size) {
-                        binding.submit.text = "Finish"
-                    } else {
-                        binding.submit.text = "Go to next question"
-                    }
-                    mOptionSelected = 0
-                }
-            }
-        }
-    }
-
     private fun answerView(answer: Int, drawableView: Int) {
         when (answer) {
             1 -> binding.tvAnswer1.background =
@@ -148,7 +161,8 @@ class QuizFragment : Fragment(), View.OnClickListener {
         tv.setTypeface(tv.typeface, Typeface.BOLD)
         tv.background = ContextCompat.getDrawable(
             requireContext(),
-            R.drawable.selected_border)
+            R.drawable.selected_border
+        )
     }
 
     override fun onDestroyView() {
@@ -156,4 +170,3 @@ class QuizFragment : Fragment(), View.OnClickListener {
         _binding = null
     }
 }
-
