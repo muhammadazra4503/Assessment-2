@@ -4,6 +4,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.navigation.Navigation
 import androidx.navigation.fragment.findNavController
@@ -20,6 +21,7 @@ class ResultFragment : Fragment() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
+        (activity as? AppCompatActivity)?.supportActionBar?.title = "Assessment 2"
         binding = FragmentResultBinding.inflate(inflater, container, false)
         binding.tvScore.text = "Your score is ${args.correctAnswer} out of ${args.totalQuestion}"
         binding.finishButton.setOnClickListener {

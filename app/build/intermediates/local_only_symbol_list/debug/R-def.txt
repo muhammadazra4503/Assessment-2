@@ -120,6 +120,7 @@ drawable hn
 drawable hr
 drawable ht
 drawable hu
+drawable ic_baseline_broken_image_24
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable id
@@ -298,6 +299,8 @@ id menu_about
 id myHostFragment
 id namaTextView
 id navigation
+id networkError
+id progressBar
 id question_text2
 id quizFragment
 id recyclerView
@@ -338,8 +341,13 @@ string button_about
 string button_finish
 string button_log
 string button_start
+string channel_desc
+string channel_name
+string koneksi_error
 string list_country
 string message
+string notif_text
+string notif_title
 string option
 string question
 string question_label

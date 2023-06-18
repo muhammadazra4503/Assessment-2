@@ -52,7 +52,49 @@ class QuizViewModel(private val db: QuestionDao): ViewModel() {
             )
             tempList.add(question1)
 
-            // Add other questions...
+            val question2 = Question(
+                "Where does this country from?",
+                R.drawable.ru,
+                "Russia",
+                "United State",
+                "Serbia",
+                "Finland",
+                1
+            )
+            tempList.add(question2)
+
+            val question3 = Question(
+                "Where does this country from?",
+                R.drawable.kr,
+                "South Korea",
+                "North Korea",
+                "Japan",
+                "China",
+                1
+            )
+            tempList.add(question3)
+
+            val question4 = Question(
+                "Where does this country from?",
+                R.drawable.ar,
+                "Swedish",
+                "Paraguay",
+                "Argentina",
+                "Greece",
+                3
+            )
+            tempList.add(question4)
+
+            val question5 = Question(
+                "Where does this country from?",
+                R.drawable.jp,
+                "Switzerland",
+                "Japan",
+                "Taiwan",
+                "China",
+                2
+            )
+            tempList.add(question5)
 
             withContext(Dispatchers.IO) {
                 for (question in tempList) {
@@ -66,10 +108,8 @@ class QuizViewModel(private val db: QuestionDao): ViewModel() {
                         correctAnswer = question.correctAnswer
                     )
                     db.insert(questionEntity)
-                    Log.d("QuizViewModel", "Inserted question: $questionEntity")
                 }
             }
-
             _questionList.postValue(tempList)
         }
     }

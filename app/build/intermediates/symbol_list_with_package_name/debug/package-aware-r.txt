@@ -1319,7 +1319,11 @@ attr yearStyle
 attr yearTodayStyle
 bool abc_action_bar_embed_tabs
 bool abc_config_actionMenuItemAllCaps
+bool enable_system_alarm_service_default
+bool enable_system_foreground_service_default
+bool enable_system_job_service_default
 bool mtrl_btn_textappearance_all_caps
+bool workmanager_test_configuration
 color abc_background_cache_hint_selector_material_dark
 color abc_background_cache_hint_selector_material_light
 color abc_btn_colored_borderless_text_material
@@ -2875,6 +2879,7 @@ drawable hr
 drawable ht
 drawable hu
 drawable ic_arrow_back_black_24
+drawable ic_baseline_broken_image_24
 drawable ic_clear_black_24
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
@@ -3328,6 +3333,7 @@ id frost
 id fullscreen_header
 id ghost_view
 id ghost_view_holder
+id glide_custom_view_target_tag
 id gone
 id graph
 id graph_wrap
@@ -3448,6 +3454,7 @@ id navigation_bar_item_labels_group
 id navigation_bar_item_large_label_view
 id navigation_bar_item_small_label_view
 id navigation_header_container
+id networkError
 id never
 id neverCompleteToEnd
 id neverCompleteToStart
@@ -3482,6 +3489,7 @@ id pin
 id position
 id postLayout
 id pressed
+id progressBar
 id progress_circular
 id progress_horizontal
 id question_text2
@@ -3902,6 +3910,8 @@ string button_about
 string button_finish
 string button_log
 string button_start
+string channel_desc
+string channel_name
 string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
@@ -3914,6 +3924,7 @@ string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
+string koneksi_error
 string list_country
 string m3_sys_motion_easing_emphasized
 string m3_sys_motion_easing_emphasized_accelerate
@@ -4013,6 +4024,8 @@ string mtrl_timepicker_cancel
 string mtrl_timepicker_confirm
 string nav_app_bar_navigate_up_description
 string nav_app_bar_open_drawer_description
+string notif_text
+string notif_title
 string option
 string password_toggle_content_description
 string path_password_eye

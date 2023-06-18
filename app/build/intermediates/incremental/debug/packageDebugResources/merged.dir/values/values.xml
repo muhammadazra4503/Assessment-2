@@ -37,13 +37,18 @@
     <string name="answer2">Singapore</string>
     <string name="answer3">Monaco</string>
     <string name="answer4">Poland</string>
-    <string name="app_name" translatable="false">Assessment 2</string>
+    <string name="app_name">Assessment 2</string>
     <string name="button_about">About</string>
     <string name="button_finish">Finish</string>
     <string name="button_log">Log</string>
     <string name="button_start">Start</string>
+    <string name="channel_desc">Update data hewan otomatis</string>
+    <string name="channel_name">Updater</string>
+    <string name="koneksi_error">Yahh koneksi nya hilang :(</string>
     <string name="list_country">List Country</string>
     <string name="message">%1$s diklik!</string>
+    <string name="notif_text">Check now, dont miss it...</string>
+    <string name="notif_title">Country list is now updated!</string>
     <string name="option">Option</string>
     <string name="question">Where does this country belong to?</string>
     <string name="question_label">Question%d</string>

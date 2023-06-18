@@ -8,6 +8,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
+import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
@@ -35,6 +36,7 @@ class QuizFragment : Fragment(), View.OnClickListener {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
+        (activity as? AppCompatActivity)?.supportActionBar?.title = "Assessment 2"
         _binding = FragmentQuizBinding.inflate(inflater, container, false)
         return binding.root
     }

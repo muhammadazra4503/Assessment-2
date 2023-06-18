@@ -47,7 +47,7 @@
     <fragment
         android:id="@+id/aboutFragment"
         android:name="org.d3ifcool3046.assessment2.ui.main.AboutFragment"
-        android:label="AboutFragment" />
+        android:label="About" />
     <fragment
         android:id="@+id/listFragment"
         android:name="org.d3ifcool3046.assessment2.ui.main.country.ListFragment"

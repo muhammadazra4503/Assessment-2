@@ -4,9 +4,11 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
+import com.bumptech.glide.Glide
 import org.d3ifcool3046.assessment2.R
 import org.d3ifcool3046.assessment2.databinding.ListItemBinding
 import org.d3ifcool3046.assessment2.model.Country
+import org.d3ifcool3046.assessment2.network.CountryApi
 
 class MainAdapter : RecyclerView.Adapter<MainAdapter.ViewHolder>() {
 
@@ -17,15 +19,18 @@ class MainAdapter : RecyclerView.Adapter<MainAdapter.ViewHolder>() {
         notifyDataSetChanged()
     }
 
-
     class ViewHolder(
         private val binding: ListItemBinding
     ) : RecyclerView.ViewHolder(binding.root) {
         fun bind(country: Country) = with(binding) {
-            namaTextView.text = country.namaNegara
-            imageView.setImageResource(country.imageCountry)
+            namaTextView.text = country.name
+            Glide.with(imageView.context)
+                .load(CountryApi.getCountryUrl(country.image))
+                .error(R.drawable.ic_baseline_broken_image_24)
+                .into(imageView)
+
             root.setOnClickListener {
-                val message = root.context.getString(R.string.message, country.namaNegara)
+                val message = root.context.getString(R.string.message, country.name)
                 Toast.makeText(root.context, message, Toast.LENGTH_LONG).show()
             }
         }
